@@ -701,6 +701,7 @@ html {
     background-color: rgba(23, 23, 23, 1);
     height: 500px;
     display: flex;
+    min-width: 1200px;
 
 }
 
@@ -894,6 +895,7 @@ html {
     margin: auto;
     display: flex;
     height: 94px;
+    min-width: 1200px;
 }
 
 .footer__copyright {
