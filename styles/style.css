@@ -521,6 +521,7 @@ html {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 60px;
+    gap: 10px;
 }
 
 .two-columns__right_tags-items {
@@ -531,8 +532,6 @@ html {
     background-color: rgba(235, 235, 235, 1);
     padding: 7px 16px 5px 16px;
     border-radius: 3px;
-    margin-right: 10px;
-    margin-top: 10px;
 }
 
 .two-columns__right_tags-title {
